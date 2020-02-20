@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+python-dotenv
+kaggle
+python-i18n[YAML]
+pytz

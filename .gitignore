@@ -1,0 +1,5 @@
+docker/kaggle_discord_bot_for_cloud_run/.env
+terraform/.terraform/*
+terraform/account.json
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
